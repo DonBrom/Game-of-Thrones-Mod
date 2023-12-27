@@ -244,9 +244,7 @@ yiti_empire_reform = {
 		governing_capacity = 100
 		nobles_influence_modifier = 0.1
 	}
-	
-	claim_states = yes
-	
+
 	custom_attributes = {
 		enables_monarchy_ideagroup = yes
 	}

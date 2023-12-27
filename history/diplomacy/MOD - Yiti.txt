@@ -1,6 +1,4 @@
 # Yi Ti
-1.1.1 = { celestial_emperor = R68 }
-
 dependency = {
 	subject_type = "personal_union"
 	first = R68

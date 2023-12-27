@@ -180,11 +180,7 @@ has_manufactory_building_trigger = {
 has_unique_building_trigger = {
 	OR = {	
 		has_building = grand_palace
-		has_building = merchants_quarter
-		has_building = grand_temple
 		has_building = tourney_grounds
-		has_building = military_academy
-		has_building = naval_academy
 	}
 }
 

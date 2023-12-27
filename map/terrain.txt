@@ -128,7 +128,7 @@ categories =  {
 			1368 1369 1480 3013 23 1589 36 42 34 44 27 28
 		}
 		
-		sound_type = mountain
+		sound_type = mountains
 	}
 
 	woods = {
@@ -175,7 +175,7 @@ categories =  {
             2006 2008 2010 2011 2016 2017 2018 2019 2020 2021 2 3 2042 2043 2044
 		}
 
-		sound_type = mountain
+		sound_type = mountains
 	}
 	
 	impassable_mountains = {

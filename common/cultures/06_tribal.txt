@@ -8,7 +8,7 @@
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 culture_sothoryos = {
-	graphical_culture = default_gfx
+	graphical_culture = southamericagfx
 
 	sothoryosi = {
 		male_names = { 
@@ -23,7 +23,7 @@ culture_sothoryos = {
 	}
 }
 culture_ulthos = {
-	graphical_culture = default_gfx
+	graphical_culture = southamericagfx
     
 	ulthosi = {
 		male_names = { 

@@ -8,7 +8,7 @@
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 culture_dothraki = {
-	graphical_culture = dothraki_gfx
+	graphical_culture = northamericagfx
     
 	dothraki_culture = {
 		male_names = {
@@ -23,7 +23,7 @@ culture_dothraki = {
 	}
 }
 culture_jogos_nhai = { 
-	graphical_culture = jogos_nhai_gfx
+	graphical_culture = northamericagfx
 
 	jogos_nhai = {
 		male_names = {

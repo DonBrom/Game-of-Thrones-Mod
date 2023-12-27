@@ -1,6 +1,6 @@
 #Country Name: Please see filename.
 
-graphical_culture = stepstones_gfx
+graphical_culture = westerngfx
 
 color = { 171 198 209 }
 

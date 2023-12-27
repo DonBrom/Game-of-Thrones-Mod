@@ -8,7 +8,7 @@
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 culture_asshai = { 
-	graphical_culture = mystical_lands_gfx
+	graphical_culture = southeastasiangfx
 	
 	asshai = {
 		male_names = {
@@ -26,7 +26,7 @@ culture_asshai = {
 	}
 }
 culture_bloodless = { 
-	graphical_culture = mystical_lands_gfx
+	graphical_culture = southamericagfx
     
 	bloodless = {
 		male_names = {
@@ -44,7 +44,7 @@ culture_bloodless = {
 	}
 }
 culture_shadowfolk = { 
-	graphical_culture = mystical_lands_gfx
+	graphical_culture = southeastasiangfx
     
     shadowfolk = {
 		male_names = { 
@@ -59,8 +59,8 @@ culture_shadowfolk = {
 	}
 }
 culture_kdath = { 
-	graphical_culture = mystical_lands_gfx
-    
+	graphical_culture = southeastasiangfx
+
 	kdathi = {
 		male_names = { 
             "Skrakk" "Kekk" "Grad" "Skobo" "Ssarbiks" "Skuarruh" "Kraasske" "Uarrulyam" "Ai'skolyeth" "Kronjirer" "Dayk" "Koss" "Tokk" "Fazrul" "Ssezrot" "O'zykk" "Erot" "Mikmuvar" "Cho'zazekk" "Lisharyos" "Skrorr" "Jakk" "Poss" "Chissar" "Ssollush" "E'rrys" "Isskuk" "Oklykix" "Tirazer"
@@ -78,7 +78,7 @@ culture_kdath = {
 	}
 }
 culture_mossovy = { 
-	graphical_culture = mystical_lands_gfx
+	graphical_culture = southeastasiangfx
     
     mossovi = {
 		male_names = { 
@@ -93,7 +93,7 @@ culture_mossovy = {
 	}
 }
 culture_cannibal_sands = { 
-	graphical_culture = mystical_lands_gfx
+	graphical_culture = southeastasiangfx
     
     cannibal = {
 		male_names = { 

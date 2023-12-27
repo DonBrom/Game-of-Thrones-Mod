@@ -8,7 +8,7 @@
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
 culture_summer_isles = { 
-	graphical_culture = summer_islands_gfx
+	graphical_culture = africangfx
 	
 	qho = {
 		male_names = {
@@ -166,7 +166,7 @@ culture_summer_isles = {
 	}
 }
 culture_ibben = {
-	graphical_culture = ibben_gfx
+	graphical_culture = africangfx
 
 	ibbenese = {
 		male_names = {
@@ -181,7 +181,7 @@ culture_ibben = {
 	}
 }
 culture_thousand_islands = {
-	graphical_culture = default_gfx
+	graphical_culture = africangfx
     
 	fishfolk = {
 		male_names = { 
@@ -196,7 +196,7 @@ culture_thousand_islands = {
 	}
 }
 culture_naathi = {
-	graphical_culture = naath_gfx
+	graphical_culture = africangfx
 
 	naathi = {
 		male_names = {

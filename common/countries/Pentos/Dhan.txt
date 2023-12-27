@@ -953,8 +953,7 @@ monarch_names = {
 	"Ziyad" = 20
 	"Zuladr" = 20
 	"Zulfan" = 20
-    
-    	"Abadai" = -20
+    "Abadai" = -20
 	"Abadi" = -20
 	"Abannah" = -20
 	"Abante" = -20
@@ -1815,4 +1814,3 @@ army_names = {
 fleet_names = {
 	"Fleet of $PROVINCE$"
 }
-S
